@@ -1,0 +1,16 @@
+# yii console commands
+/yii
+/yii_test
+/yii_test.bat
+
+# composer vendor dir
+/vendor
+
+# composer itself is not needed
+composer.phar
+
+# Mac DS_Store Files
+.DS_Store
+
+/storage/assets
+/storage/runtime
